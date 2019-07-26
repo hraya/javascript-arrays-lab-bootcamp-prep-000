@@ -6,11 +6,11 @@ function destructivelyAppendKitten(name){
 }
 
 function destructivelyPrependKitten(name){
-  
+  kittens.unshit(name)
 }
 
 function destructivelyRemoveLastKitten(){
-  
+  kittens.pop(name)
 }
 
 function destructivelyRemoveFirstKitten(){
