@@ -8,3 +8,7 @@ function destructivelyAppendKitten(arr){
 function destructivelyPrependKitten(name){
   
 }
+
+function destructivelyRemoveLastKitten(){
+  
+}
