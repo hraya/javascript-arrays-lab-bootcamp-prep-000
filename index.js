@@ -5,3 +5,6 @@ function destructivelyAppendKitten(arr){
   return 
 }
 
+function destructivelyPrependKitten(name){
+  
+}
